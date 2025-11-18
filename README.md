@@ -39,7 +39,7 @@ Bu şablonu en verimli şekilde nasıl kullanacağınızı, raporlama sürecinin
 | **🎥 Video Rehberi** | Şablonun kullanımı ve rapor yazma sürecinin adım adım anlatımı. |
 | **➡️ [YouTube Linkiniz Buraya]** | [Lütfen YouTube videonuzun linkini buraya yapıştırın.] |
 | **📝 Blog Yazısı** | Penetrasyon testi raporlarının neden önemli olduğu ve nasıl yazılması gerektiğine dair detaylı rehber. |
-| **➡️ Blog Linki : ** | [https://subutay.me/blog/rapor-yazmak/](https://subutay.me/blog/rapor-yazmak/) |
+| ➡️ Blog Linki : | [https://subutay.me/blog/rapor-yazmak/](https://subutay.me/blog/rapor-yazmak/) |
 
 ---
 
